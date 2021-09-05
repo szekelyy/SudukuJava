@@ -1,2 +1,1 @@
-# SudukuJava
-Backtracking Java Suduku
+# S
